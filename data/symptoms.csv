@@ -1,0 +1,5 @@
+symptom,disease,severity,advice,questions
+fever,Covid-19,High,Please see a doctor and isolate,"Do you also have cough?;Are you feeling tired?"
+cough,Common Cold,Low,Drink warm fluids and rest,"Do you have runny nose?;Any headache?"
+sweating,Heat Stroke,High,Stay hydrated and rest in shade,"Are you dizzy?;Do you have a headache?"
+body pain,Dengue,High,Consult a doctor immediately,"Do you have fever?;Do you see skin rashes?"

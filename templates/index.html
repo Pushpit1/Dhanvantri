@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>HealthBot</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<div id="chat-container">
+    <h1>HealthBot 🤖</h1>
+    <div id="chat-box"></div>
+    <label for="userInput"></label><input type="text" id="userInput" placeholder="Type your symptoms..." autofocus>
+</div>
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

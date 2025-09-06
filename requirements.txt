@@ -1,0 +1,6 @@
+flask
+pandas
+scikit-learn
+twilio
+googletrans==4.0.2
+flask_cors
